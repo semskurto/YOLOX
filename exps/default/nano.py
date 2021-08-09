@@ -6,7 +6,7 @@ import os
 
 import torch.nn as nn
 
-from yolox.exp import Exp as MyExp
+from YOLOX.yolox.exp import Exp as MyExp
 
 
 class Exp(MyExp):
